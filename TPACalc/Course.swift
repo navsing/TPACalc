@@ -6,7 +6,7 @@
 //  Copyright © 2015 Developers Academy. All rights reserved.
 //
 
-import UIKit
+import UIKi
 
 class Course
 {
